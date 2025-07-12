@@ -27,4 +27,4 @@ I enjoy turning ideas into functional solutions and exploring new technologies.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/udugula-architha)
 
-✨ **Open to collaboration, internships, and learning opportunities in software development.**
+✨ **Open to collaboration, internships, and learning opportunities in full stack development, and AI tools.**
