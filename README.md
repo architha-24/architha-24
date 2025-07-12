@@ -7,7 +7,6 @@ I enjoy turning ideas into functional solutions and exploring new technologies.
 - 🌱 I’m continuously learning new technologies in web development and AI tools.
 - 👯 I’m looking to collaborate on AI/ML based projects and web development projects.
 - 💬 Ask me about Python, AI/ML models, Full stack development.
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/udugula-architha) | [Email](mailto:archithaudugula24@gmail.com)
 - 😄 Pronouns: she/her
 
 ## 🛠️ Skills
@@ -26,7 +25,7 @@ I enjoy turning ideas into functional solutions and exploring new technologies.
 
 ## 📫 Let’s Connect
 
-- ✉️ [archithaudugula24@gmail.com]
-- 💼 [www.linkedin.com/in/udugula-architha]
+- 💼 [LinkedIn](https://www.linkedin.com/in/udugula-architha)
+- ✉️ [archithaudugula24@gmail.com](mailto:archithaudugula24@gmail.com)
 
 ✨ **Open to collaboration, internships, and learning opportunities in software development.**
