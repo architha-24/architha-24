@@ -26,6 +26,5 @@ I enjoy turning ideas into functional solutions and exploring new technologies.
 ## 📫 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/udugula-architha)
-- ✉️ [archithaudugula24@gmail.com](mailto:archithaudugula24@gmail.com)
-
+- 
 ✨ **Open to collaboration, internships, and learning opportunities in software development.**
