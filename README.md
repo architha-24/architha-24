@@ -15,7 +15,7 @@ I enjoy turning ideas into functional solutions and exploring new technologies.
 - 🐍 **Programming:** Python, C, Java.
 - 🤖 **AI & ML:** Core Concepts, Libraries, Frameworks.
 - 💻 **Tools:** Git, GitHub, VS Code, 
-- 🗄️ **Database:**  SQL, MySQL.
+- 🗄️ **Database:**  MySQL, MongoDB.
 
 ## 📌 Current Focus
 
